@@ -32,7 +32,7 @@
 .logo {
 	height: 50px;
 	width: 120px;	
-	background-image: url("logoam.png");
+	background-image: url("../logoam.png");
 	background-size: cover;
 }
 
@@ -166,7 +166,7 @@ span {
 
 /*hero_section*/
 .hero_section {
-	background-image: url("Heroimg1.jpg");
+	background-image: url("../Heroimg1.jpg");
 	background-size: cover; 
 	height: 250px;
 	transition: background 1s ease-in-out;
